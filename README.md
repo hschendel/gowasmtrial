@@ -32,3 +32,8 @@ Then go to http://localhost:8080/index.html
 
 * Investigate https://github.com/dennwc/dom
 * Interesting example there: gRPC over web sockets: https://github.com/dennwc/dom/tree/master/examples/grpc-over-ws
+
+## Further reading
+
+* [Setting up GoLand for wasm](https://github.com/golang/go/wiki/Configuring-GoLand-for-WebAssembly)
+
